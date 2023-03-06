@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👋, I'm Smita Vatgal</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">
+IT professional with 6+ years of experience in software design, development, testing, automation, and deployment across various platforms. 
+Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS and Agile methodologies.
+</h3>
 
 <p align="left">
 </p>
