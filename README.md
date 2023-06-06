@@ -13,23 +13,23 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 
 ## 💻 Tech Stack
 <p align="left"> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> 
+</a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="aws" width="40" height="40"/> 
 </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
 </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> 
@@ -42,6 +42,9 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 </a> 
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
+</a> 
+<a> 
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" width="40" height="40"/> 
 </a> 
 </p>
 
