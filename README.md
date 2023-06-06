@@ -14,9 +14,10 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 ## 💻 Tech Stack
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon/amazon-icon.svg" alt="aws" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="aws" width="40" height="40"/> 
+</a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
