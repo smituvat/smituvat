@@ -37,6 +37,9 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a> 
+<a> 
+<img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="GitHub Actions" width="40" height="40"/> 
+</a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/> 
 </a> 
@@ -45,6 +48,12 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 </a> 
 <a> 
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" width="40" height="40"/> 
+</a> 
+<a> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="GitHub Actions" width="40" height="40"/> 
+</a> 
+<a> 
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="GitHub Actions" width="40" height="40"/> 
 </a> 
 </p>
 
