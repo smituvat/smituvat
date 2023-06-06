@@ -65,3 +65,6 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smituvat&theme=vue"/>
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smituvat&theme=defaul"/>
+</p>
