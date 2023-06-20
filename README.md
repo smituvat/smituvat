@@ -6,15 +6,14 @@
 </p>
 
 <h3 align="center">
-IT professional with 6+ years of experience in software design, development, testing, automation, and deployment across various platforms. 
-Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS and Agile methodologies.
+𝓘𝓣 𝓹𝓻𝓸𝓯𝓮𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝔀𝓲𝓽𝓱 7+ 𝔂𝓮𝓪𝓻𝓼 𝓸𝓯 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 𝓲𝓷 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓼𝓲𝓰𝓷, 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽, 𝓽𝓮𝓼𝓽𝓲𝓷𝓰, 𝓪𝓾𝓽𝓸𝓶𝓪𝓽𝓲𝓸𝓷, 𝓪𝓷𝓭 𝓭𝓮𝓹𝓵𝓸𝔂𝓶𝓮𝓷𝓽 𝓪𝓬𝓻𝓸𝓼𝓼 𝓿𝓪𝓻𝓲𝓸𝓾𝓼 𝓹𝓵𝓪𝓽𝓯𝓸𝓻𝓶𝓼. 𝓢𝓴𝓲𝓵𝓵𝓮𝓭 𝓲𝓷 𝓜𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓾𝓼𝓲𝓷𝓰 𝓖𝓸 𝓛𝓪𝓷𝓰, 𝓚𝓾𝓫𝓮𝓻𝓷𝓮𝓽𝓮𝓼, 𝓓𝓸𝓬𝓴𝓮𝓻, 𝓢𝓠𝓛, 𝓐𝓦𝓢 𝓪𝓷𝓭 𝓐𝓰𝓲𝓵𝓮 𝓶𝓮𝓽𝓱𝓸𝓭𝓸𝓵𝓸𝓰𝓲𝓮𝓼.
 </h3>
 
 <p align="left">
 </p>
 
 
-## 💻 Tech Stack
+## 💻 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> 
@@ -60,7 +59,7 @@ Skilled in Microservices development using Go Lang, Kubernetes, Docker, SQL, AWS
 </a> 
 </p>
 
-## 🌐 Socials
+## 🌐 𝕊𝕠𝕔𝕚𝕒𝕝𝕤
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-vatgal-204b993b/)
 
 
