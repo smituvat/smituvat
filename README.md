@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 𝗦𝗠𝗜𝗧𝗔 𝗩𝗔𝗧𝗚𝗔𝗟
-</p>
+</h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=smituvat&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
 </p>
