@@ -1,6 +1,9 @@
-<h1 align="center">
-Hello 👋, I'm Smita Vatgal
-</h1>
+<p align="center">
+    𐌔𐌌𐌉𐌕𐌀 ᕓ𐌀𐌕Ᏽ𐌀𐌋
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=smituvat&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
+</p>
 
 <h3 align="center">
 IT professional with 6+ years of experience in software design, development, testing, automation, and deployment across various platforms. 
