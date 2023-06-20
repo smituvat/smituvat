@@ -1,5 +1,5 @@
 <p align="center">
-    𐌔𐌌𐌉𐌕𐌀 ᕓ𐌀𐌕Ᏽ𐌀𐌋
+  ֆʍɨȶǟ ʋǟȶɢǟʟ
 </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=smituvat&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
